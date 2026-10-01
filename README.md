@@ -1,6 +1,6 @@
 # Data Science 課程作業總覽
 
-> 國立清華大學 資訊工程學系 · 2026 Spring（大三下）
+> 國立清華大學 資訊工程學系開設課程 · 2026 Spring（大三下）
 > 實作 **Data Mining、Supervised Learning、Black-box Optimization、Model Compression** 四個主題。
 
 | # | 主題 | Core Method | Language / Tools | 成果 |
