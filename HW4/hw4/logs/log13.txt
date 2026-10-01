@@ -1,0 +1,17 @@
+Accuracy_after_retraining 51.31
+Initial_accuracy 61.57
+Accuracy_after_pruning 51.31
+Accuracy_after_retraining 60.3
+Accuracy_before_encoding 59.99
+Accuracy_after_decoding 59.99
+
+'conv1': 50,
+        'conv2': 8,
+        'conv3': 4,
+        'conv4': 2,
+        'conv5': 4,
+        'fc1': 2,
+        'fc2': 0.05,
+        'fc3': 20
+
+269.73x

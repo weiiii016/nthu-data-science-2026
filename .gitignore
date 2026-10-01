@@ -1,0 +1,29 @@
+# Course materials (slides, handouts, provided framework)
+*.pptx
+*.pdf
+*.zip
+HW3/hw3/
+
+# Datasets
+HW2/*.csv
+HW2/predicts/
+HW4/hw4/data/
+
+# Pretest / intermediate outputs
+HW1/stest*_out.txt
+HW4/hw4/log.txt
+HW4/hw4/encodings/
+
+# Model checkpoints and experiment copies
+*.ptmodel
+HW4/hw4/saves/
+HW4/hw4/submit/
+HW4/hw4/std*/
+
+# Old versions / build artifacts
+HW1/v1.cpp
+HW3/StudentID*_hw3.py
+*.exe
+~$*
+__pycache__/
+HW3/methods.txt
